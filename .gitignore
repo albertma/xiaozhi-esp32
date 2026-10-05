@@ -2,6 +2,7 @@ tmp/
 components/
 managed_components/
 build/
+dist/
 .vscode/
 .devcontainer/
 sdkconfig.old
@@ -11,8 +12,10 @@ dependencies.lock
 releases/
 main/assets/lang_config.h
 main/mmap_generate_emoji.h
+mmap_generate_*.h
 .DS_Store
 .cache
+.clangd
 *.pyc
 *.bin
-mmap_generate_*.h
+*.zip
