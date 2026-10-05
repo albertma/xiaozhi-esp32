@@ -1,0 +1,9 @@
+{
+    "target": "esp32s3",
+    "builds": [
+        {
+            "name": "yuyi-a2-lcd1306",
+            "sdkconfig_append": []
+        }
+    ]
+}
